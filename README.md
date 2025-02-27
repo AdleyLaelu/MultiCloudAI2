@@ -284,5 +284,5 @@ kubectl get service
 ![Capture d’écran 2025-02-27 010144](https://github.com/user-attachments/assets/5f2ee570-7c50-46be-acdf-0bc58af3d5a7)
 
   
-    ![Capture d’écran 2025-02-27 010554](https://github.com/user-attachments/assets/2e5c8e7c-0dc5-47ae-bce5-faf5977eb522)
+![Capture d’écran 2025-02-27 010554](https://github.com/user-attachments/assets/2e5c8e7c-0dc5-47ae-bce5-faf5977eb522)
 
