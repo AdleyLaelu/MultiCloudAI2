@@ -279,4 +279,10 @@ kubectl get service
 - Access the App with address of load balencer - http://a88bf6a00308549008c33b7eba75fd72-389695630.us-east-1.elb.amazonaws.com:5001/
   ![Capture d’écran 2025-02-27 005835](https://github.com/user-attachments/assets/bb094288-013c-4485-aa66-fdef2aa862d1)
 
+  - Acces the backend with  http://a88bf6a00308549008c33b7eba75fd72-389695630.us-east-1.elb.amazonaws.com:5001/Admin to modify the backend and create new products
+
+![Capture d’écran 2025-02-27 010144](https://github.com/user-attachments/assets/5f2ee570-7c50-46be-acdf-0bc58af3d5a7)
+
   
+    ![Capture d’écran 2025-02-27 010554](https://github.com/user-attachments/assets/2e5c8e7c-0dc5-47ae-bce5-faf5977eb522)
+
